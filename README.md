@@ -44,11 +44,7 @@ Line chart visualizing daily sales growth and fluctuations.
 
 ---
 
-### 🏆 Most Sold Product by Quantity
-Printed in console:  
-The single most sold product in terms of quantity.
 
----
 
 ## 💡 Technologies Used
 - SQLite
@@ -56,12 +52,6 @@ The single most sold product in terms of quantity.
 
 ---
 
-## 📦 How to Run
-1. Clone this repository.
-2. Make sure you have `sqlite3`, `pandas`, and `matplotlib` installed.
-3. Run the Python script to generate all visuals and reports.
-
----
 
 ## 📌 Conclusion
 This project shows how SQL and Python can be combined to:
